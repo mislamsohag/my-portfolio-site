@@ -1,5 +1,9 @@
 import React from 'react';
 
+const project = [
+    { 'name': 'St-Wholsale BD' }
+]
+
 const Projects = () => {
     return (
         <div>
