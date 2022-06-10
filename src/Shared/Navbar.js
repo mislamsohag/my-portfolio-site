@@ -15,7 +15,7 @@ const Navbar = () => {
                 <li><Link to={'projectTwo'}>Project-2</Link></li>
             </ul>
         </li>
-        <li><Link target='_blank' to={'resume'}>Download Resume</Link></li>
+        <li><Link to={'resume'}>Download Resume</Link></li>
     </>
     return (
         <>
