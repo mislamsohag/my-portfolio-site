@@ -6,7 +6,7 @@ const Navbar = () => {
     const manueItems = <>
         <li><Link to={'Home'}>Home</Link></li>
         <li><Link to={'projects'}>Projects</Link></li>
-        <li><Link to={'resume'}>My Resume</Link></li>
+        <li><Link to={'resume'}>Resume</Link></li>
         <li><Link to={'blogs'}>Blogs</Link></li>
     </>
     return (

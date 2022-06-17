@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "PC Parts BD",
-    "details": "",
+    "details": "It also very difficult thinking How can i do or what can i do this full stack Website. It's very firsting and very difficult thingking what do i do! then i create one by by successfully my simple project. at first i create react app then i install Tailwind Css (CSS Framework). I rendomly select daisy UI (Tailwind CSS component library) then setup react-router, private-route, admin-route, and public-rout, nested-route under dashboard and firebase. There are some features (Under Dashboard Product management, user management, product upload etc) After client site complete then i create server site. There are mostly setup mongoDB, create API, dotEnv, JWT emplementation and others work. then i deploy both site (firebase and heroku).",
     "link": {
       "git_client": "https://github.com/mislamsohag/pc-parts-bd",
       "git_server": "https://github.com/mislamsohag/pc-parts-bd-server",
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "name": "St Wholesale BD",
-    "details": "",
+    "details": "It's very firsting and very difficult thingking what can i do it? then isuccessfully Complete my simple project. At first i install npm and Bootstrap (CSS Framework) and then i install . Some common work (setup react-router, private-route, and firebase. There are some features (Product management, user management, product upload, product update and add reviews) After client site complete then i create server site. There are mostly setup mongoDB, create API, dotEnv, JWT emplementation, middleware setup, heroku setup, env files setup on heroku site and others work. then i deploy both site (firebase and heroku).",
     "link": {
       "git_client": "https://github.com/mislamsohag/st-wholesale-bd",
       "git_server": "https://github.com/mislamsohag/st-wholesale-bd-server",
@@ -34,7 +34,7 @@
   {
     "id": 3,
     "name": "iT Care",
-    "details": "",
+    "details": " At first i create react app one by one successfully my simple project. I install Bootstrap (CSS Framework). then setup react-router, private-route and public-rout, nested-route under dashboard and firebase authentication. There are some features (Service management) After client site complete then deploy to web",
     "link": {
       "git_client": "https://github.com/mislamsohag/it-tutor",
       "git_server": "",

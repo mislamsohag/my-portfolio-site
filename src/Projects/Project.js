@@ -4,7 +4,7 @@ import React from 'react';
 const Project = ({ project }) => {
 
     const { name, details, image, link } = project;
-    console.log(project)
+    // console.log(project)
 
     return (
         <div>
@@ -16,13 +16,13 @@ const Project = ({ project }) => {
                         <p className="py-6">{details}</p>
                     </div>
                     <div>
-                        {link.git_client && <a target='_blank' href={link.git_client} className="btn btn-ghost btn-xs">GitHub Client Link</a>}
+                        {link.git_client && <a target='_blank' href={link.git_client} className="btn btn-ghost btn-xs text-blue-600">GitHub Client Link</a>}
                     </div>
                     <div>
-                        {link.git_server && <a target='_blank' href={link.git_server} className="btn btn-ghost btn-xs">GitHub server Link</a>}
+                        {link.git_server && <a target='_blank' href={link.git_server} className="btn btn-ghost btn-xs text-blue-600">GitHub server Link</a>}
                     </div>
                     <div>
-                        <a href={link.live_site} target='_blank' className="btn btn-primary card-actions justify-center items-center">Live Site</a>
+                        <a href={link.live_site} target='_blank' className="btn btn-ancent card-actions justify-center items-center">Live Site</a>
                     </div>
                 </div>
             </div>
