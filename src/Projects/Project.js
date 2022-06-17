@@ -10,7 +10,7 @@ const Project = ({ project }) => {
         <div>
             <div className="card w-75 bg-base-100 shadow-xl">
                 <div className="card-body">
-                    <figure><img src="https://api.lorem.space/image/shoes?w=400&h=225" alt={name} className="max-w-sm rounded-lg shadow-2xl" /></figure>
+                    <figure><img src={image.one} alt={name} className="max-w-sm rounded-lg shadow-2xl" /></figure>
                     <div>
                         <h1 className="text-3xl font-bold">{name}</h1>
                         <p className="py-6">{details}</p>
