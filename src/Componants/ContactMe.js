@@ -16,8 +16,8 @@ const ContactMe = () => {
                     <h1>Email: mislamsohag@gmail.com</h1>
                 </div>
 
-                <div>
-                    <img className='order-1' src="https://i.ibb.co/ZmSpPNX/IMG20211017082810.jpg" alt="Sohag img" />
+                <div class="w-96 rounded mx-auto">
+                    <img className='order-1 rounded  mx-auto' src="https://i.ibb.co/MGQ6RnR/SOHAG-FOR-WEB.jpg" alt="Sohag img" />
                 </div>
             </div>
 
