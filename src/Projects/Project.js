@@ -13,7 +13,7 @@ const Project = ({ project }) => {
                     <figure><img src={image.one} alt={name} className="max-w-sm rounded-lg shadow-2xl" /></figure>
                     <div>
                         <h1 className="text-3xl font-bold">{name}</h1>
-                        <p className="py-6">{details}</p>
+                        <p className="py-6 text-justify">{details}</p>
                     </div>
                     <div>
                         {link.git_client && <a target='_blank' href={link.git_client} className="btn btn-ghost btn-xs text-blue-600">GitHub Client Link</a>}
