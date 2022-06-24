@@ -9,11 +9,12 @@ const ContactMe = () => {
 
 
                 <div className='order-2 mb-5'>
-                    <h1>Village: Vhuighor</h1>
-                    <h1>Thana: Fatulla</h1>
-                    <h1>City: Narayanganj</h1>
-                    <h1>Phone: +8801812060163</h1>
-                    <h1>Email: mislamsohag@gmail.com</h1>
+                    <h3 className='text-2xl'>Address</h3>
+                    <p>Village: Vhuighor</p>
+                    <p>Thana: Fatulla</p>
+                    <p>City: Narayanganj</p>
+                    <p>Phone: +8801812060163</p>
+                    <p>Email: mislamsohag@gmail.com</p>
                 </div>
 
                 <div class="w-96 rounded mx-auto">

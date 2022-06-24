@@ -11,7 +11,7 @@ const Home = () => {
                         <h1 className="text-5xl font-bold">Hi! I'm Md. Mazharul Islam Sohag</h1>
                         <h5 className="text-xl mt-3 italic">Frontend Developer with React.js</h5>
                         <p className="py-6 text-justify">In addition to my React development skills, I have enough knowledge in HTML 5, CSS 3, Tailwind CSS, Bootstrap, JavaScript (ES 6), Node.JS, MongoDB, and React Router. I am also familiar with webpack and other build tools. I have a deep understanding of the latest web development trends and technologies. I'm confident that I can quickly adapt to new technologies and trends and can be a valuable asset to teamwork.</p>
-                        <Link to='contact' className="btn btn-primary">Contact Me</Link>
+                        <Link to='/contact' className="btn btn-primary">Contact Me</Link>
                     </div>
                 </div>
             </div>

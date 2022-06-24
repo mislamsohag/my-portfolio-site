@@ -5,8 +5,8 @@ import Navbar from './Shared/Navbar';
 import Resume from './Componants/Resume';
 import Projects from './Projects/Projects';
 import Blogs from './Componants/Blogs';
-import ContactMe from './Componants/ContactMe';
 import NotFound from './Componants/Notfound';
+import ContactMe from './Componants/ContactMe';
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
-        <Route path='projects' element={<Projects></Projects>}></Route>
+        <Route path='/projects' element={<Projects></Projects>}></Route>
         <Route path='/blogs' element={<Blogs></Blogs>}></Route>
         <Route path='/resume' element={<Resume></Resume>}></Route>
         <Route path='/contact' element={<ContactMe></ContactMe>}></Route>
