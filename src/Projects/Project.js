@@ -22,7 +22,7 @@ const Project = ({ project }) => {
                         {link.git_server && <a target='_blank' href={link.git_server} className="btn btn-ghost btn-xs text-blue-600">GitHub server Link</a>}
                     </div>
                     <div>
-                        <a href={link.live_site} target='_blank' className="btn btn-ancent card-actions justify-center items-center">Live Site</a>
+                        <a href={link.live_site} target='_blank' className="btn bg-red-600 card-actions justify-center items-center">Live Site</a>
                     </div>
                 </div>
             </div>
