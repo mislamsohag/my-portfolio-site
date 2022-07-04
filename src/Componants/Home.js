@@ -6,7 +6,8 @@ const Home = () => {
         <div>
             <div className="hero min-h-screen bg-base-200">
                 <div className="hero-content text-center flex-col lg:flex-row gap-5">
-                    <img src="https://i.ibb.co/ZmSpPNX/IMG20211017082810.jpg" className="max-w-md rounded-lg shadow-2xl" />
+                    {/* <img src="https://i.ibb.co/ZmSpPNX/IMG20211017082810.jpg" className="max-w-md rounded-lg shadow-2xl" /> */}
+                    <img src="https://i.ibb.co/fdXBfdj/IMG20211017082810.jpg" className="max-w-md rounded-lg shadow-2xl" />
                     <div>
                         <h1 className="text-5xl font-bold">Hi! I'm Md. Mazharul Islam Sohag</h1>
                         <h5 className="text-xl mt-3 italic">Frontend Developer with React.js</h5>
